@@ -1,0 +1,1 @@
+export default '10ddf2d5'

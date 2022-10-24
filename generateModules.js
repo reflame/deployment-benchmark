@@ -4,7 +4,7 @@ import * as crypto from "node:crypto";
 
 global.crypto = crypto.webcrypto;
 
-const emptyList = Array.from({ length: 1 });
+const emptyList = Array.from({ length: 500 });
 
 const randomString = (length = 8) => {
   const hexStringLength = 2;

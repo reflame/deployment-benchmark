@@ -1,0 +1,1 @@
+export default 'fb3daf50'

@@ -1,0 +1,1 @@
+export default 'f786a4ca'
