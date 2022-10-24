@@ -1,10 +1,11 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import reflameLogo from './icon.svg'
+import { useState } from "react";
+import reactLogo from "./assets/react.svg";
+import viteLogo from "./assets/vite.svg";
+import reflameLogo from "./icon.svg";
+import Components from "./components.jsx";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
     <div className="App">
@@ -31,8 +32,9 @@ function App() {
       <p className="read-the-docs">
         Click on the Reflame, Vite and React logos to learn more
       </p>
+      <Components />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
