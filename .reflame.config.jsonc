@@ -74,7 +74,7 @@
     },
     "jose": {
       "name": "jose",
-      "version": "4.8.3",
+      "version": "4.9.0",
     },
   },
 }
