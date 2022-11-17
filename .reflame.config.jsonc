@@ -3,7 +3,8 @@
   // It's basically JSON, with the addition of comments, and looser syntax 
   // (trailing commas!).
   // Reflame uses this to identify your app.
-  "appId": "01GG5ED3ADDNQAXRQWA73NGA0Z",
+  "appId": "01GG5ED3ADDNQAXRQWA73NGA0Z", // prod
+  // "appId": "01GHA9GH7F40J5WD1DPE8HXEXF", // dev
   // This is what shows up in the browser's tab bar.
   "title": "Reflame App",
   // This is the description that shows up in Google search.
@@ -30,6 +31,50 @@
       "name": "framer-motion",
       // Version range of the package to use.
       "version": "^7.6.7",
+    },
+    "@lewisl9029/react-anonymous": {
+      "name": "@lewisl9029/react-anonymous",
+      "version": "6.0.0"
+    },
+    "react-youtube": {
+      "name": "react-youtube",
+      "version": "10.0.0"
+    },
+    "ariakit": {
+      "name": "ariakit",
+      "version": "2.0.0-next.41",
+    },
+    "@tanstack/react-query": {
+      "name": "@tanstack/react-query",
+      "version": "4.2.3",
+    },
+    "react-router-dom": {
+      "name": "react-router-dom",
+      "version": "6.4.3",
+    },
+    "react-error-boundary": {
+      "name": "react-error-boundary",
+      "version": "3.1.4",
+    },
+    "@lewisl9029/use-classes": {
+      "name": "@lewisl9029/use-classes",
+      "version": "0.0.9",
+    },
+    "@radix-ui/colors": {
+      "name": "@radix-ui/colors",
+      "version": "0.1.7",
+    },
+    "react-live-chat-loader": {
+      "name": "react-live-chat-loader",
+      "version": "2.7.4"
+    },
+    "magic-sdk": {
+      "name": "magic-sdk",
+      "version": "9.0.0",
+    },
+    "jose": {
+      "name": "jose",
+      "version": "4.8.3",
     },
   },
 }
