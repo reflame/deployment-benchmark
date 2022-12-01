@@ -1,0 +1,1 @@
+export default 'c32c24f3'

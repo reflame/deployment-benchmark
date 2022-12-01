@@ -1,0 +1,1 @@
+export default 'fa72fa7e'

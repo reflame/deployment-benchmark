@@ -1,0 +1,1 @@
+export default 'de1c0eae'

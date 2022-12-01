@@ -1,0 +1,1 @@
+export default 'bed1200e'

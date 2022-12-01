@@ -1,0 +1,1 @@
+export default 'f23f6970'

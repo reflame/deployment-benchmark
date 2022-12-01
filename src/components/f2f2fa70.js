@@ -1,0 +1,1 @@
+export default 'f2f2fa70'

@@ -1,0 +1,1 @@
+export default 'aded9b60'

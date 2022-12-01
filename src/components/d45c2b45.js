@@ -1,0 +1,1 @@
+export default 'd45c2b45'

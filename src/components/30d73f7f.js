@@ -1,0 +1,1 @@
+export default '30d73f7f'

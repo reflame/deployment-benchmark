@@ -1,0 +1,1 @@
+export default '0f600e10'

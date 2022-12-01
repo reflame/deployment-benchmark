@@ -1,0 +1,1 @@
+export default 'ac43cd3b'

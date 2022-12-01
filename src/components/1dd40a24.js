@@ -1,0 +1,1 @@
+export default '1dd40a24'

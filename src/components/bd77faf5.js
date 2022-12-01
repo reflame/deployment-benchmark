@@ -1,0 +1,1 @@
+export default 'bd77faf5'

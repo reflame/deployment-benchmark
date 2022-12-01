@@ -1,0 +1,1 @@
+export default 'a92048ca'

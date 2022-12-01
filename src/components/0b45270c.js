@@ -1,0 +1,1 @@
+export default '0b45270c'

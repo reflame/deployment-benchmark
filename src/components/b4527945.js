@@ -1,0 +1,1 @@
+export default 'b4527945'

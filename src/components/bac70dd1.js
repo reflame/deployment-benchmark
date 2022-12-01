@@ -1,0 +1,1 @@
+export default 'bac70dd1'

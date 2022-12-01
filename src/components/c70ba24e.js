@@ -1,0 +1,1 @@
+export default 'c70ba24e'

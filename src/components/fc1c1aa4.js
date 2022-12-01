@@ -1,0 +1,1 @@
+export default 'fc1c1aa4'

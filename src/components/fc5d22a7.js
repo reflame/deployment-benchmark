@@ -1,0 +1,1 @@
+export default 'fc5d22a7'

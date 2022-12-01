@@ -1,0 +1,1 @@
+export default 'aedf36f2'

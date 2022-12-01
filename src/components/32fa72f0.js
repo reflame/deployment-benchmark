@@ -1,0 +1,1 @@
+export default '32fa72f0'

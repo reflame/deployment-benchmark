@@ -1,0 +1,1 @@
+export default 'a22c3029'
