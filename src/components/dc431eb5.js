@@ -1,1 +1,0 @@
-export default 'dc431eb5'

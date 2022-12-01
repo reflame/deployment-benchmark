@@ -1,1 +1,0 @@
-export default 'f6c9204d'

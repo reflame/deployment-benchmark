@@ -1,1 +1,0 @@
-export default 'fee7e990'

@@ -1,1 +1,0 @@
-export default '4da1247f'

@@ -1,1 +1,0 @@
-export default 'a48ca3c1'

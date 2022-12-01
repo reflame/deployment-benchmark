@@ -1,1 +1,0 @@
-export default '3b8a2b5a'

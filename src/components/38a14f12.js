@@ -1,1 +1,0 @@
-export default '38a14f12'

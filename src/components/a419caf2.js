@@ -1,1 +1,0 @@
-export default 'a419caf2'
