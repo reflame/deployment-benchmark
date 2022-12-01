@@ -1,0 +1,1 @@
+export default '03f45056'

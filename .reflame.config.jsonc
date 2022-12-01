@@ -30,7 +30,7 @@
       // This is the name of the package on NPM.
       "name": "framer-motion",
       // Version range of the package to use.
-      "version": "7.6.7",
+      "version": "7.5.4",
     },
     "@lewisl9029/react-anonymous": {
       "name": "@lewisl9029/react-anonymous",

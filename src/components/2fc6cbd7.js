@@ -1,0 +1,1 @@
+export default '2fc6cbd7'
