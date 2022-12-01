@@ -1,1 +1,0 @@
-export default 'a8728d97'

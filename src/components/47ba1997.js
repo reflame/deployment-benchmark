@@ -1,1 +1,0 @@
-export default '47ba1997'

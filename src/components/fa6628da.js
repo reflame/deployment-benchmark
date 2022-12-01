@@ -1,0 +1,1 @@
+export default 'fa6628da'

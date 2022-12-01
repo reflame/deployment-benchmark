@@ -1,1 +1,0 @@
-export default 'aec5dc43'

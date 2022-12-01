@@ -1,0 +1,1 @@
+export default 'ff7784bc'

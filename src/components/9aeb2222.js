@@ -1,1 +1,0 @@
-export default '9aeb2222'

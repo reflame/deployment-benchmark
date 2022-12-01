@@ -1,0 +1,1 @@
+export default '03c298cc'

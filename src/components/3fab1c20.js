@@ -1,0 +1,1 @@
+export default '3fab1c20'

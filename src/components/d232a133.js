@@ -1,1 +1,0 @@
-export default 'd232a133'

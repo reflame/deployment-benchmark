@@ -1,1 +1,0 @@
-export default 'cc9b86c3'

@@ -1,1 +1,0 @@
-export default 'bc207754'

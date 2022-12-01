@@ -1,1 +1,0 @@
-export default '441fad5e'
